@@ -1,0 +1,11 @@
+Git setup:
+	- To setup github CLI:
+		- `gh auth login`
+		- `git config --global user.name "Alex Clayton"`
+		- `git config --global user.email "alexander_clayton@progressive.com"`
+	- To Create new github project
+		- `git init
+		- `git add .` to add all stuff into it
+		- `git commit -m "Initial"` To create a commit of it
+		- `gh repo create` and follow that
+	- You can automatically commit within VSCode. #vs
